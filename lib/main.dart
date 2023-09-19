@@ -1,7 +1,7 @@
 import 'package:cantwait28/features/home/pages/home_page.dart';
 import 'package:cantwait28/firebase_options.dart';
-import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:firebase_core/firebase_core.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
